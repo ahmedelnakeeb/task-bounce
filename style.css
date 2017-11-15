@@ -1,0 +1,27 @@
+.container {
+    width: 60%;
+    margin: 15px auto;
+    background: #eff5f5
+}
+
+legend {
+    margin-top: 60px;
+}
+
+img {
+    width: 50%;
+    height: 200px;
+}
+
+.check {
+    border: 1px solid gray;
+    margin: 2px 0px 10px;
+}
+
+.check .form-group {
+    margin: 10px;
+}
+
+button {
+    width: 100%;
+}
